@@ -162,7 +162,6 @@
     {"type": "tv","query": "国产剧"},
     {"type": "tv","query": "港剧"},
     {"type": "tv","query": "综艺"},
-    {"type": "tv","query": "纪录片"},
-    {"type": "tv","query": "日本动漫"}
+    {"type": "tv","query": "纪录片"}
   ]
 }
