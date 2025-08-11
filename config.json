@@ -137,7 +137,7 @@
         "api": "https://api.ukuapi88.com/api.php/provide/vod",
         "name": "U酷资源"
     }
-  },
+  }
 #  "custom_category": [
 #    {"type": "movie","query": "热门"},
 #    {"type": "movie","query": "最新"},
